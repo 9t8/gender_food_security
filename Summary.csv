@@ -1,0 +1,12 @@
+﻿"Item","Value"
+"Sponsor","National Center for Education Statistics"
+"Analysis Title","Food security status: previous 30 days by Total income (categorical) and Gender. "
+"General Note","None"
+"Special Notes","! Interpret data with caution. Estimate is unstable because the standard error represents between 30 percent and 50 percent of the estimate. !! Interpret data with caution. Estimate is unstable because the standard error represents more than 50 percent of the estimate. ‡ Reporting standards not met."
+"Estimation Note","NOTE: Data are weighted estimates of the population. Weighted estimates and standard errors have been calculated using methods that account for the complex sample design used for the data collection. Detail may not sum to totals because of rounding."
+"Source Note","Source: U.S. Department of Education, National Center for Education Statistics, National Postsecondary Student Aid Study: 2020 Undergraduate Students (NPSAS:UG)."
+"Filter Condition","None"
+"Weight Variable","WTA000"
+"Variable List","FOODSEC, GENDER3, and  BINCOME. "
+"Retrieval Code","odkspe"
+"Computation Information","Computation by NCES PowerStats on 5/7/2025 at 07:37:09 UTC."﻿
