@@ -52,7 +52,8 @@ for gender_value, gender_name in zip(gender_values, gender_names):
 
         ax.bar(
             x + width * multiplier, vals, width,
-            label=f'{gender_name[0]}, {foodsec_name[:-len(" food security")]}',
+            label=f'{gender_name[:11]}, ' +
+            f'{foodsec_name[:-len(" food security")]}',
             bottom=bottom,
             color=(foodsec_color, width * (multiplier + 2))
         )
